@@ -1,5 +1,5 @@
 ---
-title: 'Hello There 👋'
+title: 'เกี่ยวกับ ผู้สอน 👋'
 layout: 'layouts/page.njk'
 permalink: '/about/index.html'
 imageURL: https://pbs.twimg.com/media/EFwC00PWkAElLDC?format=jpg&name=large
