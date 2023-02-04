@@ -1,6 +1,6 @@
 ---
-title: Synergizing an Effective Pipeline
-description: Hyvor is a simple to use elegant commenting account
+title: ทำความรู้จักกับ-Hubspot
+description: Hubspot-เครื่องมือที่ทรงอนุภาพที่สุด
 imageURL: https://www.ideamotive.co/hubfs/hubspot%20cms%202088x1252%20(1).png
 date: 2018-05-01
 tags:
