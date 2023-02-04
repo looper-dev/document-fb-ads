@@ -1,7 +1,7 @@
 ---
 title: Synergizing an Effective Pipeline
 description: Hyvor is a simple to use elegant commenting account
-imageURL: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
+imageURL: https://www.ideamotive.co/hubfs/hubspot%20cms%202088x1252%20(1).png
 date: 2018-05-01
 tags:
   ['business', 'same', 'tag']
