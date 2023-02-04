@@ -2,7 +2,7 @@
 title: 'เอกสารการเรียนรู้ - Facebook Ads'
 layout: 'layouts/feed.njk'
 metaDesc: '11ty theme'
-imageURL: https://images.squarespace-cdn.com/content/v1/59acba43cd0f687db8ee9b37/5313df9c-f928-419e-a2fb-9f6f95b2205d/Analytics+Follow+Up+Email+-+Facebook+API+-+Banner.png
+imageURL: https://shop-express.ua/Media/shop-express-06-2018/blog-images/fca_blog-share-ext.jpg
 pagination: 
   data: collections.blog
   size: 7
