@@ -2,7 +2,7 @@
 title: 'เอกสารการเรียนรู้ - Facebook Ads'
 layout: 'layouts/feed.njk'
 metaDesc: '11ty theme'
-imageURL: https://images.commerce7.com/facebook-conversion-tracking/images/icon/facebook-conversion-tracking-c7-1596750365788.png
+imageURL: https://images.squarespace-cdn.com/content/v1/59acba43cd0f687db8ee9b37/5313df9c-f928-419e-a2fb-9f6f95b2205d/Analytics+Follow+Up+Email+-+Facebook+API+-+Banner.png
 pagination: 
   data: collections.blog
   size: 7
