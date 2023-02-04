@@ -2,7 +2,7 @@
 title: 'เอกสารการเรียนรู้ - Facebook Ads'
 layout: 'layouts/feed.njk'
 metaDesc: '11ty theme'
-imageURL: https://shop-express.ua/Media/shop-express-06-2018/blog-images/fca_blog-share-ext.jpg
+imageURL: https://anytrack.io/wp-content/uploads/2021/05/Pixel.png
 pagination: 
   data: collections.blog
   size: 7
